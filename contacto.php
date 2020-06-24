@@ -47,7 +47,7 @@ include 'General/head.php';
                   <div class="description">
                     <h5 class="info-title">Give us a ring</h5>
                     <p> Juaan perez
-                      <br> +40 762 321 762
+                      <br> +86786786676686
                       <br> Mon - Fri, 8:00-22:00
                     </p>
                   </div>
