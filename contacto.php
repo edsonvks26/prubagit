@@ -46,7 +46,7 @@ include 'General/head.php';
                   </div>
                   <div class="description">
                     <h5 class="info-title">Give us a ring</h5>
-                    <p> Michael Jordan
+                    <p> Juaan perez
                       <br> +40 762 321 762
                       <br> Mon - Fri, 8:00-22:00
                     </p>
