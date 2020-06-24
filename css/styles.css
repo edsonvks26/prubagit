@@ -1,0 +1,19 @@
+/** Servicios **/
+
+.imagen-servicio img {
+  border: 6px solid #ffffff;
+  -webkit-transition: transform 0.3s ease;
+  -ms-transition: transform 0.3s ease;
+  transition: transform 0.3s ease;
+}
+.imagen-servicio img:hover {
+  -webkit-transform: scale(1.2) rotate(10deg);
+  -ms-transform: scale(1.2) rotate(10deg);
+  transform: scale(1.2) rotate(10deg);
+}
+
+.cardletras{
+  font-size: 1.3rem !important;
+  
+}
+
